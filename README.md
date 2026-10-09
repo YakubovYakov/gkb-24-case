@@ -96,3 +96,4 @@
 
 - Портфолио: [yakubovyakov.github.io](https://yakubovyakov.github.io)
 - Telegram: [@yaks1331](https://t.me/yaks1331)
+- Почта: [yakubov01yakov@yandex.ru](mailto:yakubov01yakov@yandex.ru)
